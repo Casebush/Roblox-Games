@@ -1,0 +1,16 @@
+# Built place/model files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+!assets/**
+
+# Studio lock and backup files
+*.lock
+*.rbxl.lock
+*.rbxlx.lock
+
+# OS/editor
+.DS_Store
+Thumbs.db
+sourcemap.json
